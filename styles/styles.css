@@ -1,0 +1,15 @@
+html {
+  font-size: 10px;
+  font-family: placeholder: Supermercado+One;
+}
+
+h1, h2, h3 {
+	font-size: 30px;
+	text-align: center;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+}
